@@ -43,7 +43,22 @@
 		<name>Maven.org</name>
 		<url>http://repo1.maven.org/maven2</url>
 	    </pluginRepository>
-	</pluginRepositories>
+	</pluginRepositories> 
+
+	<build>
+    <plugins>
+        <!-- Maven WAR Plugin -->
+        <plugin>
+            <groupId>org.apache.maven.plugins</groupId>
+            <artifactId>maven-war-plugin</artifactId>
+            <version>3.3.1</version> <!-- Update the version here -->
+            <configuration>
+                <!-- Your configuration here -->
+            </configuration>
+        </plugin>
+    </plugins>
+</build>
+
 
 	
 </project>
