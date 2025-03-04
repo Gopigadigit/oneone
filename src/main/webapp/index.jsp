@@ -4,6 +4,7 @@
         <h2 style="color: red; font-size: 60px;" align="center">gopigadura</h2>
         <h3 style="color: blue; font-size: 80px;" align="center">Bossu ra lucha</h3>
         <h3 style="color: green; font-size: 100px;" align="center">Sadhincha</h4>
+        <h3 style="color: black; font-size: 120px;" align="center">Super</h4>
        
 	
 	
